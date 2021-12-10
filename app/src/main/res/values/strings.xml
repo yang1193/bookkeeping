@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Personal Bookkeeping</string>
+    <string name="editone">Add One Entry</string>
+    <string name="month_out">Monthly Expenses</string>
+    <string name="out">Expenses</string>
+    <string name="month_in">Monthly Incomes</string>
+    <string name="in">Incomes</string>
+    <string name="budget">Budget Surplus</string>
+    <string name="set_budget">Set A Budget</string>
+    <string name="see_excel">View Chart Analysis</string>
+    <string name="add_remark">Add Notes</string>
+    <string name="remark">Notes</string>
+    <string name="ensure">YES</string>
+    <string name="cancel">CANCEL</string>
+    <string name="about">About</string>
+    <string name="setting">Settings</string>
+    <string name="history_record">Billing Records</string>
+    <string name="account_info">Account Info</string>
+    <string name="please_input_time">Please Enter Time(24h)</string>
+    <string name="please_search_info">Please Enter Search Information</string>
+    <string name="date_empty">No Record Found...</string>
+    <string name="chart_info">Billing Details</string>
+
+    <string name="about_appinfo">App Info</string>
+    <string name="about_version">Version</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">About This App</string>
+    <string name="about_balabala">Personal Bookkeeping App</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_me">About Me</string>
+    <string name="about_loc">CS New Grad who is especially passionate about cloud computing, full-stack and mobile development, advocates in Java, C++, Python, Spring, React and JavaScript. Looking for entry-level software development engineer positions, willing to relocate.</string>
+    <string name="about_email">Email</string>
+    <string name="about_email2">yang1193@purdue.edu</string>
+
+    <string name="history_info">Billing Records This Month</string>
+    <string name="clear_all">Clear All Records</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">No Data</string>
+</resources>
